@@ -1,0 +1,22 @@
+
+
+.accordion-item, .card {
+  width: 100%;
+}
+.accordion-button
+{
+    width: 100%;
+    border: none;
+}
+
+.button-group {
+  display: flex;
+}
+
+.button-group .btn {
+  margin-right: 10px; /* Space between buttons */
+}
+
+.button-group .btn:last-child {
+  margin-right: 0; /* Remove margin for the last button */
+}
